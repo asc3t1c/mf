@@ -30,6 +30,10 @@ Given <code>first name</code>, <code>last name</code> and <code>domain name</cod
 
 <code>python3 email-finder [first name] [last name] [domain]  </code>
 
+```python 3.13.x in Windows 11 PRO
+ python .\email-finder Kur Druvchevicjh example.com
+```
+
 Alternatively, if arguments are missing, the script will request user input.
 
 ### Errors

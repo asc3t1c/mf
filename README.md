@@ -1,6 +1,6 @@
 # Email Finder
 
-[!](docs/emails.png)
+[!](https://github.com/asc3t1c/mf/blob/main/docs/emails.png)
 
 A Python script to find valid email addresses from first name, last name and domain.
 

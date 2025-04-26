@@ -18,7 +18,7 @@ Given <code>first name</code>, <code>last name</code> and <code>domain name</cod
 
 * [`Pyperclip`](https://github.com/asweigart/pyperclip) (clipboard functions) <code>pip install pyperclip</code>
 
-* Dirrect:
+* Direct:
 * 
   ```python
   pip install -r requirements.txt

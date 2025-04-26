@@ -18,6 +18,12 @@ Given <code>first name</code>, <code>last name</code> and <code>domain name</cod
 
 * [`Pyperclip`](https://github.com/asweigart/pyperclip) (clipboard functions) <code>pip install pyperclip</code>
 
+* Dirrect:
+* 
+  ```python
+  pip install -r requirements.txt
+  ```
+
 ### Usage
 
 <code>python3 email-finder [first name] [last name] [domain]  </code>

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+### support by nu11secur1ty 2025
 # Email finder using Python
 # (1) Create list of possible addresses given name and domain
 # (2) Verify whether email addresses exist
